@@ -1,0 +1,2 @@
+# Packages
+Django==6.0.3
