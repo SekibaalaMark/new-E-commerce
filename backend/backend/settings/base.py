@@ -31,10 +31,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     #External Packages
-    'rest_framework'
+    'rest_framework',
     
     
     #internal Apps
+    "backend.product",
     
     
 ]
